@@ -1,0 +1,6 @@
+* ruby 启动参数
+** ruby -e ......
+   -e （exexute）参数告诉ruby解释器程序：请执行后续的任何脚本
+   :: 
+** ruby -w ......
+   -w (worning) 参数为ruby的“警告模式”
