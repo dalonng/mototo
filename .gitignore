@@ -19,3 +19,6 @@ doc/
 
 #mac
 .DS_Store
+
+#emacs
+.rb~
